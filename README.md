@@ -188,14 +188,4 @@ Optional analyses that are not required for a first-pass paper reproduction are 
 
 ## Citation
 
-Please cite:
 
-- the accompanying paper
-- the original dataset sources
-
-Dataset citations are collected in [data/README.md](data/README.md).
-
-Before public release, you should still add:
-
-- a final `CITATION.cff`
-- a project `LICENSE`
