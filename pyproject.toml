@@ -1,0 +1,17 @@
+[project]
+name = "cross-building-energy-forecasting"
+version = "0.1.0"
+description = "Parity-aware cross-building energy forecasting experiments on BDG2, GEPIII, and HEEW."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "lightgbm>=4.6.0",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.3",
+    "pandas>=3.0.1",
+    "pyarrow>=23.0.1",
+    "requests>=2.32.5",
+    "scikit-learn>=1.8.0",
+    "scipy>=1.16.0",
+    "torch>=2.10.0",
+]
